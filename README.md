@@ -21,3 +21,6 @@ Furthermore, recent advances in cryptocurrency and smart contracts make it so th
 
 ## All Welcome
 This project is a thought experiment to see what would happen if many people could pool their thought together effectively to govern themselves in a theoretical country in a way that would achieve the outcomes stated above -- lower management costs, waste, and corruption that any other governmental system.
+
+## Practical Application
+Eventually a project like this could grow to the point where it could live along side the current government and be used as a measuring tool to compare the performance of legislators with their adherence to the will of the people and best/agreed upon solutions that were arrived at without the alarmism and distraction of election politics.
