@@ -1,5 +1,5 @@
 # WikiGovernment
-A crowdsourced legal code that could be used to run a country with very little bureaucratic overhead.
+A crowdsourced legal code that could be used to run a country with very little bureaucratic overhead. Become a Citizen-Stakeholder and contribute!
 
 ## Abstract
 
@@ -18,3 +18,6 @@ Very low:
 If such a system could be achieved, it is very likely that it would incredibly low levels of management cost (taxes), wastes (funds ineptly allocated, but with good intentions), and corruption (funds intentionally allocated with bad intentions) relative to the current systems.
 
 Furthermore, recent advances in cryptocurrency and smart contracts make it so that the transfer and allocation of public funds could largely be executed in a way that was transparent and automatic. This capability has never before existed in human history. 
+
+## All Welcome
+This project is a thought experiment to see what would happen if many people could pool their thought together effectively to govern themselves in a theoretical country in a way that would achieve the outcomes stated above -- lower management costs, waste, and corruption that any other governmental system.
